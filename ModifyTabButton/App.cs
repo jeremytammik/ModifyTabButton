@@ -152,8 +152,9 @@ namespace ModifyTabButton
           _button3 = CreateButton( 3, image );
 
           Autodesk.Windows.ComponentManager.UIElementActivated
-            += new EventHandler<Autodesk.Windows.UIElementActivatedEventArgs>(
-              OnUiElementActivated );
+            += new EventHandler<
+              Autodesk.Windows.UIElementActivatedEventArgs>(
+                OnUiElementActivated );
 
           Autodesk.Windows.RibbonRowPanel rowPanel
             = new Autodesk.Windows.RibbonRowPanel();
