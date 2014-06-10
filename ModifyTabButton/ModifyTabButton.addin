@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>ModifyTabButton</Name>
+    <Assembly>ModifyTabButton.dll</Assembly>
+    <FullClassName>ModifyTabButton.App</FullClassName>
+    <ClientId>7c04d9bb-0736-42cc-a540-1d5bd6b7e84c</ClientId>
+    <VendorId>TBC_</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
